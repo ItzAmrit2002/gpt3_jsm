@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gtp3-ui/static/css/main.bc3a5816.css",
+    "main.js": "/react-gtp3-ui/static/js/main.5b9190a3.js",
+    "static/media/ai.png": "/react-gtp3-ui/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/react-gtp3-ui/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/react-gtp3-ui/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/react-gtp3-ui/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/react-gtp3-ui/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/react-gtp3-ui/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/react-gtp3-ui/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/react-gtp3-ui/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/react-gtp3-ui/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/react-gtp3-ui/index.html",
+    "main.bc3a5816.css.map": "/react-gtp3-ui/static/css/main.bc3a5816.css.map",
+    "main.5b9190a3.js.map": "/react-gtp3-ui/static/js/main.5b9190a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3a5816.css",
+    "static/js/main.5b9190a3.js"
+  ]
+}
